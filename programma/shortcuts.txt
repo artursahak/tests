@@ -1,0 +1,3 @@
+python webcam.py
+python webcam.py --record
+python plotter.py
